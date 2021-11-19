@@ -4,7 +4,7 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=cbh1987&theme=github-dark)](https://github.com/cbh1987/cbh1987)
 
-[Github activity graph](https://activity-graph.herokuapp.com/graph?username=cbh1987&bg_color=fcfcfe&color=000000&line=4bc0c8&point=feac5e&area=true&hide_border=true)
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=cbh1987&bg_color=fcfcfe&color=000000&line=4bc0c8&point=feac5e&area=true&hide_border=true)
 
 - 📫 How to reach me: 
 
