@@ -11,7 +11,8 @@
   * Telegram: [@binghomax](https://t.me/binghomax)
 
   * Email: binghomchen@gmail.com
- ![Metrics](https://metrics.lecoq.io/cbh1987?template=classic&config.timezone=Asia%2FShanghai) 
+
+![Metrics](https://metrics.lecoq.io/cbh1987?template=classic&config.timezone=Asia%2FShanghai) 
 
 <!--
 **cbh1987/cbh1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
