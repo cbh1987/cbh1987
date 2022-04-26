@@ -12,7 +12,7 @@
 
   * Telegram: [@binghomax](https://t.me/binghomax)
 
-  * Email: binghomchen@gmail.com
+  * Email: binghomax@gmail.com
 
 ![Metrics](https://metrics.lecoq.io/cbh1987?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai)
 
